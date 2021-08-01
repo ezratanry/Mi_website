@@ -1,0 +1,68 @@
+h2{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+span{
+    background-color: aquamarine;
+}
+.navbar{
+    background-color: forestgreen;
+    border-style: inset;
+    border-color: black;
+    position: sticky;
+    top:0px;
+}
+.navbar th {
+    border: solid black;
+    padding: 5px;
+}
+#stuff{
+    border-style: double;
+    border-width: 4px;
+    border-color: black;
+}
+
+#stuff td{
+    padding: 5px;
+}
+
+#SIKE{
+    font-size: xx-large;
+}
+#arr{
+    border-style: hidden;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    font-size: 35px;
+}
+header{
+    background-color: chartreuse;
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid whitesmoke
+}
+.dropdown {
+    display:inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    padding: 5px;
+    box-shadow: 5px 5px 10px black;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.active {
+    background-color: yellow;
+}
+a {
+    color: navy;
+    text-decoration: none;
+}
